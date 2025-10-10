@@ -59,3 +59,5 @@ Google Play 스토어의 기존 무료 이미지 번역 앱들은 대부분 다�
 
 -----
 ## 프로젝트 시연영상
+
+[![STAR WORDs 시연 영상](https://img.youtube.com/vi/uQnRhR9CcbE/maxresdefault.jpg)](https://youtu.be/uQnRhR9CcbE)
