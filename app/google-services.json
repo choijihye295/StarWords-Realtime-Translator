@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "353245419423",
+    "project_id": "text-detector-193f3",
+    "storage_bucket": "text-detector-193f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353245419423:android:c6e4380d72b1e556c44faa",
+        "android_client_info": {
+          "package_name": "com.afteredit.starwords"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgAboXbMQZX_y8sG3hFXW1FYMsvPnKPcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353245419423:android:0f5d1abdff6ee1afc44faa",
+        "android_client_info": {
+          "package_name": "com.example.a1011textrecognition"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgAboXbMQZX_y8sG3hFXW1FYMsvPnKPcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353245419423:android:a45354af85614188c44faa",
+        "android_client_info": {
+          "package_name": "com.example.textdetector"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgAboXbMQZX_y8sG3hFXW1FYMsvPnKPcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
