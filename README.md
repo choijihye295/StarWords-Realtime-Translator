@@ -7,7 +7,7 @@
 | **기간** | 2023.09 ~ 2023.12 |
 | **팀 구성** | 5명 (기여도 20%) |
 | **핵심 목표** | 기존 앱에서 불가능했던 **웹페이지 스크롤 중 실시간 이미지 텍스트 번역** 기능 구현 |
-| **사용 기술** | Android (Java/Kotlin), Foreground Service, WindowManager, ML Kit |
+| **사용 기술** | Android (Java), Foreground Service, WindowManager, ML Kit |
 | **디자인 콘셉트** | 우주/행성 테마 ("행성의 말들") |
 
 ## 배경 및 문제 정의
