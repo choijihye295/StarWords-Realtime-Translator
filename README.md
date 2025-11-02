@@ -55,7 +55,7 @@ Google Play 스토어의 기존 무료 이미지 번역 앱들은 대부분 다�
 
 -----
 ## 사용 기술
-- 주요 기술: Android (Java/Kotlin), Foreground Service, WindowManager, ML Kit
+- 주요 기술: Android (Java), Foreground Service, WindowManager, ML Kit
 
 -----
 ## 프로젝트 시연영상
